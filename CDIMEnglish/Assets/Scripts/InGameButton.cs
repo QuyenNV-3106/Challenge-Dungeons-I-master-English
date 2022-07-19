@@ -20,4 +20,9 @@ public class InGameButton : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+    public void btn_Challenge()
+    {
+        SceneManager.LoadScene("GameScene");
+    }
 }

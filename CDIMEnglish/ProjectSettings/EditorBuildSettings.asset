@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: c03ec417bacb48840a2a07a72be16eda
@@ -15,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainGame.unity
     guid: 4751654bd066a0942b8011c7363cf46f
   - enabled: 1
-    path: Assets/Scenes/QuizBattle.unity
-    guid: e342ccef38b19f348b92270a56f73c69
+    path: Assets/Scenes/GameScene.unity
+    guid: c76f10349b4ecf04a95f68f7a727b311
   m_configObjects: {}
