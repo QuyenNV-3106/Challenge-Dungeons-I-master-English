@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: HardData
+  m_EditorClassIdentifier: 
+  categoryName: Hard
+  questions:
+  - questionInfo: What is the fastest bird on two legs?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Chicken
+    - Ostrich
+    - Kiwi
+    - Crow
+    correctAns: Ostrich
+  - questionInfo: What is New Zealand's national bird?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Kiwi
+    - Penguins
+    - Bat
+    - Duck
+    correctAns: Kiwi
+  - questionInfo: Which bird can't walk on legs?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Capon
+    - Ravens
+    - Hummingbird
+    - Bluebird
+    correctAns: Hummingbird
+  - questionInfo: Which bird cannot fly?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Chicken
+    - Crow
+    - Sparrow
+    - Owl
+    correctAns: Chicken
+  - questionInfo: Emperor, Rock Hopper and jackass are all types of what?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Dodo
+    - Penguins
+    - Albatross
+    - Crow
+    correctAns: Penguins
+  - questionInfo: When a women works outside the home and makes money herself, she
+      is ________ independent from her husband
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - financially
+    - politically
+    - philosophically
+    - variously
+    correctAns: financially
+  - questionInfo: A woman's role in society was defined by the Feminists on whether
+      they were contributors ________ society or not
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - upon
+    - to
+    - off
+    - away
+    correctAns: to
+  - questionInfo: The organization was ___________ in 1950 in the USA.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - come around
+    - set up
+    - made out
+    - put on
+    correctAns: set up
+  - questionInfo: When___________at this store, the buyers get a guarantee on all
+      items
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - purcharsed
+    - purchase
+    - purchasing
+    - having purchased
+    correctAns: purchasing
+  - questionInfo: Do you need to give your speech another_________ or do you already
+      know it by heart?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - break-down
+    - check-up
+    - run-through
+    - mix-up
+    correctAns: run-through
