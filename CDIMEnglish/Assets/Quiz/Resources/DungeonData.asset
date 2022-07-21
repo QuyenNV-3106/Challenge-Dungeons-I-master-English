@@ -159,6 +159,18 @@ MonoBehaviour:
     - Pig
     - Snake
     correctAns: Pig
+  - questionInfo: I recognized my grandma as soon as she ____ the plane through we
+      had not seen each other for more than 10 years
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - got off
+    - got in
+    - got over
+    - got up
+    correctAns: got off
   - questionInfo: Quess the animal?
     questionType: 2
     questionImage: {fileID: 0}
@@ -170,3 +182,63 @@ MonoBehaviour:
     - Dolphine
     - Frog
     correctAns: Wolf
+  - questionInfo: People believed that what they do on the first day of year will
+      _____ their luck during the whole year.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - control
+    - influence
+    - exchange
+    - result
+    correctAns: influence
+  - questionInfo: On my birthday, my father gave me a ________.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - new blue German car
+    - new German blue car
+    - blue German new car
+    - german new blue car
+    correctAns: new blue German car
+  - questionInfo: Their complaints to the head office should be sent.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - People should send their complaints to the head office.
+    - Complaints should be sent to the head office.
+    - Complaints should be sent to the head office by people.
+    - Their complaints should be sent to the head office by people.
+    correctAns: People should send their complaints to the head office.
+  - questionInfo: The plane had taken off. Paul realized he was on the wrong flight.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hardly had Paul realized he was on the wrong flight when the plane took off.
+    - It was not until the plane had taken off, did Paul realize he was on the wrong
+      flight.
+    - Not until the plane had taken off did Paul realize he was on the wrong flight.
+    - No sooner had the plane taken off than Paul had realized he was on the wrong
+      flight.
+    correctAns: Not until the plane had taken off did Paul realize he was on the
+      wrong flight.
+  - questionInfo: By the mid-nineteenth century, land was such expensive in large
+      cities that architects began to conserve space by designing skyscrapers.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - By the mid-nineteenth century
+    - Such expensive
+    - Conserve
+    - By designing
+    correctAns: Such expensive
